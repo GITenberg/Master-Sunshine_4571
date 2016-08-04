@@ -1,0 +1,27 @@
+_repo: Master-Sunshine_4571
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fraser, C. F., Mrs.
+    alias: Fraser, Mrs. C. F.
+    gutenberg_agent_id: '1510'
+    url: http://www.gutenberg.org/2009/agents/1510
+description: A good-natured boy enjoys life at home and stands up for a classmate
+  who is teased at school.
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4571'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Bullying -- Juvenile fiction'
+- GITenberg
+title: Master Sunshine
+url: http://www.gutenberg.org/ebooks/4571
